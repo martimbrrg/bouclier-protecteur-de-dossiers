@@ -1,0 +1,9 @@
+Lis bien les étapes qui suivent avant de ouvrir un ticket a propos
+
+1- Rends toi sur ce site -> [Lien du site]
+2- Lis bien le "LIS-MOI"
+3- Télécharge les fichiers en formats .zip (Tu auras bessoin de 7 ZIP ou de WinRar, sinon le décompresseur de base de Windows fait l'affaire)
+4- Regarde la vidéo tutoriel disponible sur le GitHub via ce lien -> [https://github.com/martimbrrg/bouclier-protecteur-de-dossiers] ou via le lien de la vidéo YouTube ici -> [https://youtu.be/c2vSWGLBmNI]
+5- Profite du tools
+
+------------------------------SI TU AS BESSOIN D'AIDE OUVRE LE FICHIER "AIDE" DISPONIBLE DANS CE DOSSIER !---------------------------------------
